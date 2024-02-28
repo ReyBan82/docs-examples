@@ -1,3 +1,4 @@
+![Screenshot_2024-01-29_150130](https://github.com/ReyBan82/docs-examples/assets/91646027/c0bf7813-a7f8-48ae-9573-e2b5448459a2)
 # PayPal Developer Docs Example Code
 
 Examples from the official [PayPal Developer Docs](https://developer.paypal.com/).
